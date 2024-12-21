@@ -15,7 +15,7 @@ export default function About() {
                         About Us
                     </h1>
                     <p className="text-white text-[8px] text-center w-[70%] sm:text-[14px] lg:w-[50%] xl:text-[16px]">
-                        At Local Face, we believe that perfumes are more than just scents; they are expressions of one's individuality and style. Our passion for exquisite fragrances led us to curate a collection that captures the essence of diverse personalities, bringing you an unparalleled olfactory experience.
+                        At Local Face, we believe that perfumes are more than just scents; they are expressions of ones individuality and style. Our passion for exquisite fragrances led us to curate a collection that captures the essence of diverse personalities, bringing you an unparalleled olfactory experience.
                     </p>
                 </div>
             </div>
@@ -50,7 +50,7 @@ export default function About() {
                         High Quality Ingredients
                     </h2> 
                     <p className="text-white text-[14px] text-center">
-                        We believe that the key to an extraordinary scent lies in the quality of ingredients. That's why we collaborate with expert perfumers who source the finest and ethically-sourced materials from around the world. We never compromise on the quality of our products, ensuring a long-lasting and luxurious experience.
+                        We believe that the key to an extraordinary scent lies in the quality of ingredients. Thats why we collaborate with expert perfumers who source the finest and ethically-sourced materials from around the world. We never compromise on the quality of our products, ensuring a long-lasting and luxurious experience.
                     </p>
                 </div>
 
@@ -59,7 +59,7 @@ export default function About() {
                         Personalized Service
                     </h2>
                     <p className="text-white text-[14px] text-center">
-                        We understand that choosing the perfect scent is a deeply personal experience. Our team of fragrance experts is always ready to assist you in finding a fragrance that complements your personality and style. Whether you're exploring new scents or seeking to rediscover an old favorite, we're here to guide you every step of the way.
+                        We understand that choosing the perfect scent is a deeply personal experience. Our team of fragrance experts is always ready to assist you in finding a fragrance that complements your personality and style. Whether you are exploring new scents or seeking to rediscover an old favorite, were here to guide you every step of the way.
                     </p>
                 </div>
             </div>
